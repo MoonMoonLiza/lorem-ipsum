@@ -1,0 +1,16 @@
+p{
+	border: 3px dotted palevioletred;
+	color: black;
+	background: beige;
+	font-size: 25px;
+}
+.title{
+	border: 5px dashed;
+	color: #8a8aa3;;
+	background: rgba(00,00,00,0.1);
+}
+h3{
+	color: greenyellow;
+	background:#a94242;
+	font-size: 25px;
+}
